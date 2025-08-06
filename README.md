@@ -8,17 +8,17 @@ Project đơn giản để điều khiển góc quay của động cơ bước. 
 
 ## Phần cứng cần thiết
 
-Arduino Mega 2560
-Driver TB6600
-Động cơ bước NEMA 17
-Nguồn cấp 12-24V
-Dây nối
+Arduino Mega 2560  
+Driver TB6600  
+Động cơ bước NEMA 17  
+Nguồn cấp 12-24V  
+Dây nối  
 
 ## Kết nối
 
-Arduino Mega    →    Driver A4988
-Pin 2 (PUL)     →    PUL
-Pin 3 (DIR)     →    DIR  
-Pin 4 (ENA)     →    ENA
-GND             →    GND
+Arduino Mega    →    Driver A4988  
+Pin 2 (PUL)     →    PUL  
+Pin 3 (DIR)     →    DIR   
+Pin 4 (ENA)     →    ENA  
+GND             →    GND  
 5V              →    VCC
