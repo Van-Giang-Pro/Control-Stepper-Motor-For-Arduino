@@ -9,7 +9,7 @@ Project đơn giản để điều khiển góc quay của động cơ bước. 
 ## Phần cứng cần thiết
 
 Arduino Mega 2560
-Driver A4988 hoặc DRV8825  
+Driver TB6600
 Động cơ bước NEMA 17
 Nguồn cấp 12-24V
 Dây nối
